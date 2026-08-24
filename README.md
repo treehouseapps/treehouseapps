@@ -31,4 +31,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/treehouseapps/treehouseapps/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=treehouseapps&show_icons=true&locale=en&theme=radical" alt="treehouseapps" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=treehouseapps&theme=onedark&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="treehouseapps trophies" />
+</p>
