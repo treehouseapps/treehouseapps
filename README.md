@@ -59,9 +59,15 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=treehouseapps&show_icons=true&locale=en&layout=compact" alt="treehouseapps" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=treehouseapps&layout=compact&theme=default"
+    alt="Top Languages"
+  />
 </p>
 
 <p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=treehouseapps" alt="treehouseapps" />
+  <img
+    src="https://streak-stats.demolab.com?user=treehouseapps&theme=default"
+    alt="GitHub Streak"
+  />
 </p>
