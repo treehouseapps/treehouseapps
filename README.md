@@ -28,6 +28,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=treehouseapps&show_icons=true&locale=en&layout=compact" alt="treehouseapps" /></p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/treehouseapps/treehouseapps/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=treehouseapps&show_icons=true&locale=en&theme=radical" alt="treehouseapps" /></p>
