@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=treehouseapps&show_icons=true&locale=en&layout=compact" alt="treehouseapps" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=treehouseapps&" alt="treehouseapps" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=treehouseapps&show_icons=true&locale=en&theme=radical" alt="treehouseapps" /></p>
